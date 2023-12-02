@@ -1,0 +1,8 @@
+blank_lines_enabled: true
+contact_links:
+  - name: BaseMind.AI Documentation
+    url: https://docs.basemind.ai/
+    about: Official BaseMind.AI documentation - please check the docs before submitting a new issue.
+  - name: Discord
+    url: https://discord.gg/BzH7TQVVYy
+    about: Join our Discord server to chat.

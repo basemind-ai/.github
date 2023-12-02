@@ -1,0 +1,21 @@
+name: "Feature"
+description: Create an issue for a new feature
+title: "feat: <title>"
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: Provide a brief description of your feature request
+      placeholder: Describe in a few lines your feature request
+    validations:
+      required: true
+  - type: textarea
+    id: additional_information
+    attributes:
+      label: "Additional Information"
+      description: Any additional information you would like to add.
+      placeholder: Any additional information you would like to add.
+    validations:
+      required: false
